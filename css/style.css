@@ -1,0 +1,160 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    text-align: center;
+    font-size: 60px;
+    font-family: arial;
+    display: inline-block;
+    }
+
+.container {
+    width: 1000px;
+    height: 1000px;
+    margin: 50px auto 50px;
+    background-color: white;
+
+}
+
+.titolodiv {
+    margin-top:40px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    font-family: arial;
+    font-size: 30px;
+    
+}
+
+.badge {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-family: arial;
+    font-size: 25px;
+        
+}
+
+.badge_q1_goals {
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    background-color: #9F6FDC;
+    font-size: medium;
+}
+
+.badge_editorial {
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    background-color: #0FADEB;
+    font-size: medium;
+}
+.badge_recruiting {
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    background-color: #49c0a9;
+    font-size: medium;
+}
+
+.badge_mobile {
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    background-color: #FD9A4B;
+    font-size: medium;
+}
+
+.badge_website{
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    background-color: #E35D9C;
+    font-size: medium;
+}
+
+.badge_sales{
+    margin-left: 5px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px;
+    background-color: #ABC94C;
+    font-size: medium;
+}
+
+.schedule {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+    font-family: arial;
+    font-size: 25px;
+}
+
+body {
+    background-color: #f5f8f9;
+}
+
+
+main {
+    margin-top: 0;
+    background-color: #f5f8f9;
+}
+
+h1 {
+    padding: 15px;
+    background-color: white;
+
+}
+
+#primo_badge{
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: #0FADEB;
+}
+
+#secondo_badge{
+    margin-left: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    display: inline-block;
+    border-radius: 10px;
+    border: 0.5px solid lightgrey;
+    background-color: white;
+}
+
+#spunta {
+    width: 30px;
+}
+
+#croce {
+    width: 30px;
+}
+
+#logo {
+    width: 60px;
+}
