@@ -9,6 +9,7 @@
     font-size: 60px;
     font-family: arial;
     display: inline-block;
+    vertical-align: top;
     }
 
 .container {
@@ -149,10 +150,12 @@ h1 {
 
 #spunta {
     width: 30px;
+    vertical-align: middle;
 }
 
 #croce {
     width: 30px;
+    vertical-align: middle;
 }
 
 #logo {
